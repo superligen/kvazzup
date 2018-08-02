@@ -1,7 +1,7 @@
 Kvazzup
 =======
 
-Kvazzup is an HEVC video call software. Kvazzup is written in C++ and built on Qt framework. Kvazzup also makes use of the following open-source tools: Kvazaar for HEVC encoding, OpenHEVC for HEVC decoding, Opus Codec for audio encoding and decoding, and Live555 Streaming Media for RTP/RTCP traffic management. Currently, Kvazzup operates on Windows and it can be compiled using MinGW or Visual Studio.
+Kvazzup is an HEVC video call software. Kvazzup is written in C++ and built on Qt framework. Currently Kvazzup supports Windows.
 
 ## Features 
 
